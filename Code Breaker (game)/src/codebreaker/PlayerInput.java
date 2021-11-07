@@ -1,17 +1,15 @@
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Code breaker is a game where you have to quess the randomly generated code before you run out of lives.
+ * 
+ * @author Michal Switala
+ * Copyright © 2021 belongs solely to Michal Switala.
+ *
+ * You can reach me out on : https://github.com/michaelPro89
  */
 package codebreaker;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Michal Switala
- */
 class PlayerInput 
 {
     
