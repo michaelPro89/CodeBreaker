@@ -3,7 +3,8 @@ package codebreaker;
 /*****************************************************************
  * Author: Michal Switala 
  * Version: 4 
- * References:    
+ *---------------------------------------------------------------------------
+ * References:
  * https://www.youtube.com/watch?v=FLkOX4Eez6o - shows how to create window in
  * Java using the simpliest way
  *
@@ -28,8 +29,14 @@ package codebreaker;
  * https://docs.oracle.com/javase/tutorial/uiswing/misc/keybinding.html - How to
  * use key bindings on your keyboard to do something, for example how to bind
  * key ENTER and set an action for it
- ****************************************************************/
-
+ *-----------------------------------------------------------------------------
+ * Code breaker is a game where you have to quess the randomly generated code before you run out of lives.
+ * 
+ * @author Michal Switala
+ * Copyright © 2021 belongs solely to Michal Switala.
+ *
+ * You can reach me out on : https://github.com/michaelPro89
+ */
 import javax.swing.JFrame;
 import java.awt.*;
 import java.awt.event.*;
@@ -39,11 +46,6 @@ import javax.swing.border.Border;
 import javax.swing.border.EtchedBorder;
 import javax.swing.ImageIcon;
 
-
-/**
- *
- * @author Michal Switala
- */
 
 class InputWindow implements ActionListener {
 
