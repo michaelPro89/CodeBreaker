@@ -9,6 +9,8 @@ import java.net.URL;
  * 
  * @author Michal Switala
  * Copyright © 2021 belongs solely to Michal Switala.
+ *
+ * You can reach me out on : https://github.com/michaelPro89
  */
 class GameLogic {
 
